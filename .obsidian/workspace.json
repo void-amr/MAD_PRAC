@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ImageVIewBased/problem_5.md",
+                "file": "IntentBased/Email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "problem_5"
+              "title": "Email"
             }
           }
         ],
@@ -213,8 +213,12 @@
   },
   "active": "9181e1b9b9378f36",
   "lastOpenFiles": [
-    "ImageVIewBased/problem_4.md",
+    "IntentBased/Start dialer.md",
+    "IntentBased/Email.md",
+    "IntentBased/www wala.md",
     "ImageVIewBased/problem_5.md",
+    "IntentBased",
+    "ImageVIewBased/problem_4.md",
     "ImageVIewBased/problem_3.md",
     "Assets/WhatsApp Image 2025-04-20 at 13.34.58_24f71ec6.jpg",
     "Assets",
