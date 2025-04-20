@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ImageVIewBased/problem_4.md",
+                "file": "ImageVIewBased/problem_5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "problem_4"
+              "title": "problem_5"
             }
           }
         ],
@@ -211,10 +211,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58647e5b7f09ff94",
+  "active": "9181e1b9b9378f36",
   "lastOpenFiles": [
-    "ImageVIewBased/problem_3.md",
     "ImageVIewBased/problem_4.md",
+    "ImageVIewBased/problem_5.md",
+    "ImageVIewBased/problem_3.md",
     "Assets/WhatsApp Image 2025-04-20 at 13.34.58_24f71ec6.jpg",
     "Assets",
     "Assets/Pasted image 20250420122146.png",
